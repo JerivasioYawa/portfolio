@@ -24,7 +24,6 @@ This portfolio brings together my professional background, PC Revival project ev
 9. [Agile Logbook](#agile-logbook)
 10. [Work Integrated Learning](#work-integrated-learning)
 11. [Learning Connections](#learning-connections)
-12. [Evidence and References](#evidence-and-references)
 
 ---
 
@@ -138,18 +137,20 @@ My documented work includes updating the Trello board, assigning tasks, working 
 
 ---
 
-## Mock Interview Video
+<a id="mock-interview-video"></a>
 
-[▶ Watch my mock interview](https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3)
+####  🎥 Mock Interview Video
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3)
 
 The video is retained as evidence of my work-readiness preparation. A direct link provides access from both GitHub and the published portfolio.
 
-### Reflection
+######  💭 Mock Interview Video Reflection
 
-- **Situation:** Preparing for employment requires me to communicate my experience as well as demonstrate technical work.
-- **Task:** Present myself through a recorded mock interview.
-- **Action:** I completed the recording and included it alongside my CV and project evidence.
-- **Result:** The recording provides a concrete artefact for reviewing my delivery. My development goal is to use specific project examples and keep explanations concise; I do not claim a measured improvement without feedback evidence.
+- **Situation :** Preparing for employment requires me to communicate my experience as well as demonstrate technical work.
+- **Task :** Present myself through a recorded mock interview.
+- **Action :** I completed the recording and included it alongside my CV and project evidence.
+- **Result :** The recording provides a concrete artefact for reviewing my delivery. My development goal is to use specific project examples and keep explanations concise; I do not claim a measured improvement without feedback evidence.
 
 ---
 
@@ -168,26 +169,30 @@ The portfolio is prepared for GitHub Pages publishing from the repository's `mai
 
 ---
 
-## Agile Team Charter
+<a id="agile-team-charter"></a>
 
-[📜 Read the Agile Team Charter](evidence/agile-team-charter.pdf)
+####  📜 Agile Team Charter
 
-The detailed charter records the team's purpose, roles, working agreements, communication methods, decision-making, definition of done, risks and commitments. It identifies Kyle Marais as Project Manager and my role as Designer Assistant. My contribution later extended into task organisation and sprint planning, as recorded in the logbook and Trello evidence.
+[![View Team Charter](https://img.shields.io/badge/Team-Charter-blue?style=for-the-badge)](https://github.com/Gee-Man06/Portfolio/blob/main/PC-Revival%20Team%20Charter.pdf)
 
-The charter describes a Kanban approach using Trello. Later evidence shows numbered sprint lists. I describe the practice as visual task tracking with sprint planning; the records do not establish that the team implemented every Scrum practice.
+<img width="700" height="300" alt="Shared PC Revival team charter" src="https://github.com/user-attachments/assets/7faf328f-b109-4278-8e4e-c0582a2aa10b" />
 
-### Reflection
+This is the shared PC Revival team charter used in Mangaliso's portfolio. It brings together the team's purpose, values and working agreements. My reflection below focuses on my own participation in design support, task organisation and sprint planning.
 
-- **Situation:** PC Revival required several people to coordinate research, design and development, with recurring communication and participation difficulties.
-- **Task:** Understand my responsibilities and plan my work within the team's shared agreements.
-- **Action:** I worked within the design-support role and contributed to task organisation and sprint planning. I used the board and logbook to make planned work and blockers visible.
-- **Result:** The charter provided a shared reference for responsibilities, but the logbooks show that coordination still needed attention. I learned that agreements become useful when the team follows them through in day-to-day work.
+######  💭 Agile Team Charter Reflection
+
+- **Situation :** PC Revival required several people to coordinate research, design and development, with recurring communication and participation difficulties.
+- **Task :** Understand my responsibilities and plan my work within the team's shared agreements.
+- **Action :** I worked within the design-support role and contributed to task organisation and sprint planning. I used the board and logbook to make planned work and blockers visible.
+- **Result :** The charter provided a shared reference for responsibilities, but the logbooks show that coordination still needed attention. I learned that agreements become useful when the team follows them through in day-to-day work.
 
 ---
 
-## User Stories and Tasks
+<a id="user-stories-and-tasks"></a>
 
-[📝 Open the shared task board](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+####  📝 User Stories and Tasks
+
+[![View Task Board](https://img.shields.io/badge/User-Stories-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
 The following examples connect user needs to the tasks visible in the evidence. **The complete user-story sentences below are portfolio explanations, not verbatim transcriptions:** the backend story is cut off in the screenshot.
 
@@ -201,18 +206,22 @@ The following examples connect user needs to the tasks visible in the evidence. 
 
 ![Backend setup card showing AY and LM, a partially visible user story and setup subtasks](evidence/ay-backend-setup.png)
 
-### Reflection
+######  💭 User Stories and Tasks Reflection
 
-- **Situation:** Broad activities such as backend development were too large to communicate as a single task.
-- **Task:** Participate in planning work that team members could understand and track.
-- **Action:** I helped organise sprint work and was assigned to cards linking a feature or development need to specific tasks. The setup card separates project initialisation from environment configuration.
-- **Result:** The evidence gives a clearer account of the work and its owners. It also taught me to keep a user story, its implementation tasks and its completion checks consistent. The screenshot credits Mangaliso with adding subtasks; I do not claim sole authorship of those checklists.
+- **Situation :** Broad activities such as backend development were too large to communicate as a single task.
+- **Task :** Participate in planning work that team members could understand and track.
+- **Action :** I helped organise sprint work and was assigned to cards linking a feature or development need to specific tasks. The setup card separates project initialisation from environment configuration.
+- **Result :** The evidence gives a clearer account of the work and its owners. It also taught me to keep a user story, its implementation tasks and its completion checks consistent. The screenshot credits Mangaliso with adding subtasks; I do not claim sole authorship of those checklists.
 
 ---
 
-## Product Backlog
+<a id="product-backlog"></a>
 
-[📋 View the product backlog on Trello](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+####  📋 Product Backlog
+
+[![View Task Board](https://img.shields.io/badge/Product-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+
+<img width="350" height="613" alt="Shared PC Revival product backlog shown in Mangaliso’s portfolio" src="https://github.com/user-attachments/assets/df03cbde-5cc8-47a6-abad-4152ce2ca0d2" />
 
 The product backlog brings together upcoming PC Revival work. The logbooks describe research, business planning, design, backend development, integration/testing, deployment and post-launch work. These are recorded scope areas, not a claim that every area was completed.
 
@@ -220,20 +229,22 @@ The AY activity in the supplied screenshots shows **Define Service Location** mo
 
 [View service-location movement](evidence/ay-service-location.png) · [View backend movement](evidence/ay-backend-setup.png)
 
-### Reflection
+######  💭 Product Backlog Reflection
 
-- **Situation:** The team needed to keep track of work across business planning, interface design and backend preparation.
-- **Task:** Help organise the board so that upcoming work and sprint work were distinguishable.
-- **Action:** I updated the board and assigned members, as recorded on 4 August. The screenshots also record my movement of cards from the product backlog into sprint lists.
-- **Result:** The board provides a visible record of scope and selection. My main learning is that moving a card is an organisational action; it should not be confused with proof that the underlying feature has been implemented or tested.
+- **Situation :** The team needed to keep track of work across business planning, interface design and backend preparation.
+- **Task :** Help organise the board so that upcoming work and sprint work were distinguishable.
+- **Action :** I updated the board and assigned members, as recorded on 4 August. The screenshots also record my movement of cards from the product backlog into sprint lists.
+- **Result :** The board provides a visible record of scope and selection. My main learning is that moving a card is an organisational action; it should not be confused with proof that the underlying feature has been implemented or tested.
 
 ---
 
-## Sprint Backlog
+<a id="sprint-backlog"></a>
 
-[🏃 View sprint planning on Trello](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+####  🏃 Sprint Backlog
 
-![Sprint 6 showing backend setup on Day 1 and PostgreSQL schema design on Day 2, both assigned to AY and LM](evidence/sprint-6-backlog.png)
+[![View Task Board](https://img.shields.io/badge/Sprint-Backlog-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
+
+<img width="206" alt="Sprint 6 backend setup and schema design cards assigned to AY and LM" src="evidence/sprint-6-backlog.png" />
 
 **Sprint 6 focus:** prepare the backend foundation for PC Revival. The visible sequence places backend setup before schema design. The logbook additionally lists authentication tables, table relationships, connection testing, CRUD endpoints, booking logic and admin authentication as backend work.
 
@@ -245,12 +256,12 @@ The AY activity in the supplied screenshots shows **Define Service Location** mo
 
 Day labels describe planned sequence, not verified calendar completion dates. Completed cards with unchecked subtasks require reconciliation before they can serve as evidence that every acceptance condition passed.
 
-### Reflection
+######  💭 Sprint Backlog Reflection
 
-- **Situation:** The team had several backend dependencies to organise, while the logbooks recorded communication and coordination challenges.
-- **Task:** Contribute to sprint planning and make responsibilities and the next pieces of work clearer.
-- **Action:** I updated the board, assigned members and moved work into sprint lists. The AY-labelled evidence connects me to service-location planning and the backend setup/schema sequence.
-- **Result:** The screenshots provide traceable evidence of my planning participation and shared assignments. They also reveal a tracking weakness: a completed card can still have an unchecked checklist. I would improve the next sprint by reviewing checklist completion and test evidence before treating a card as done.
+- **Situation :** The team had several backend dependencies to organise, while the logbooks recorded communication and coordination challenges.
+- **Task :** Contribute to sprint planning and make responsibilities and the next pieces of work clearer.
+- **Action :** I updated the board, assigned members and moved work into sprint lists. The AY-labelled evidence connects me to service-location planning and the backend setup/schema sequence.
+- **Result :** The screenshots provide traceable evidence of my planning participation and shared assignments. They also reveal a tracking weakness: a completed card can still have an unchecked checklist. I would improve the next sprint by reviewing checklist completion and test evidence before treating a card as done.
 
 ---
 
@@ -354,25 +365,3 @@ PC Revival helped me connect requirements, design and planning: a student need i
 The most useful lesson from assembling this portfolio is that evidence must support the claim being made. A design artefact supports design work, a board activity supports planning participation, and a test result would support a claim about behaviour. They are related, but they are not interchangeable.
 
 My next goals are to write clearer acceptance criteria, keep card and checklist statuses aligned, and record specific test outcomes and actions from retrospectives. These habits will make both my development work and future reflections more reliable.
-
-## Evidence and References
-
-| Portfolio area | Main evidence | Individual reflection |
-|---|---|---|
-| Agile Team Charter | Detailed team charter PDF | Included under Agile Team Charter |
-| User Stories and Tasks | AY card screenshots and public board | Included under User Stories and Tasks |
-| Product Backlog | Card movement history, board and logbooks | Included under Product Backlog |
-| Sprint Backlog | Sprint 6 screenshot and AY activity | Included under Sprint Backlog |
-| Agile Logbook | July corrected transcription and August records | Included under Agile Logbook |
-| WIL | Public report/register copy | Included under Work Integrated Learning |
-
-### Source acknowledgement
-
-- PC Revival team (2026) *Agile Team Charter – PC Revival*. Last updated 4 May. [Shared team artefact](evidence/agile-team-charter.pdf).
-- PC Revival team (2026) *PC Revival project progress*. Trello board. Available at: https://trello.com/b/68sMqKP5/pc-revival-project-progress (screenshots supplied for this portfolio).
-- Yawa, A.J. (2026) *Agile logbooks*. July and August records linked above. [July source](evidence/july-source-logbook.docx) and [August source](evidence/august-source-logbook.docx) are retained for comparison with the clearly labelled corrections.
-- Yawa, A.J. (2026) *September internship report and attendance register*. Public copy linked above.
-- Snothando, M. (2026) *Portfolio README*. Unpublished reference supplied for section order and presentation style. Personal experiences and achievements have not been copied from the reference.
-- Cape Peninsula University of Technology (2026) *Project Presentation 3: October assessment and portfolio of evidence brief*. Assessment supplied for this portfolio's requirements review.
-
-The portfolio follows the collect, select, reflect and connect approach: collect project records, select evidence relevant to each area, explain my own learning, and connect that learning across study and workplace experience.
