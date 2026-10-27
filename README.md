@@ -275,26 +275,75 @@ Day labels describe planned sequence, not verified calendar completion dates. Co
 
 ---
 
-## Work Integrated Learning
+<a id="work-integrated-learning"></a>
 
-**Employer:** Full Stack (Pty) Ltd  
-**Role:** Intern Developer  
-**Start date:** 17 September 2026
+####  💼 Work Integrated Learning
 
-[📄 View the public WIL report and attendance register](evidence/wil-report-register-public.pdf)
+- 🏢 **Employer:** Full Stack (Pty) Ltd
+- 💻 **Role:** Intern Developer
+- 📅 **Start date:** 17 September 2026
 
-The supplied September report describes onboarding, systems access, defect investigation, testing, development workflows and team communication. It includes an attendance register. My confirmed employment start date is stated above; the document's general five-month WIL plan is curriculum context rather than my employment start date.
+[![View WIL Report](https://img.shields.io/badge/WIL-Report%20and%20Register-blue?style=for-the-badge)](evidence/wil-report-register-public.pdf)
 
-**Evidence status:** The supplied report/register contains blank mentor-signature and other incomplete fields. It is supporting evidence, not a claim of mentor certification or verified attendance totals. My national ID has been removed from the public copy. The original remains separate from this public repository.
+The September report and attendance register cover my onboarding, bug investigations, testing and participation in the team's development workflow. The general five-month WIL plan in the report refers to the academic programme; my placement started on 17 September 2026.
 
-The company project and its code cannot be shared. This section describes my learning at a general level and does not link to private systems or publish company implementation work.
+The public copy has my national ID removed. Mentor-signature and other incomplete fields remain as supplied, so the register is supporting evidence rather than a signed confirmation of attendance.
 
-### Reflection
+---
 
-- **Situation:** Entering a professional development environment required me to learn existing systems, team practices and review expectations.
-- **Task:** Contribute as an Intern Developer while respecting company ownership and following the team's delivery process.
-- **Action:** I participated in onboarding and stand-ups, investigated defects, tested changes and developed my understanding of review and build workflows, as described in the report.
-- **Result:** The placement has given me practical exposure to collaborative software delivery. It has strengthened my understanding that a fix needs investigation, testing and review, and that public evidence must respect the employer's ownership of the work.
+######  📱 ATKV Mobile Application Development Project
+
+Work Integrated Learning | Progressive Web Application | Full Stack (Pty) Ltd
+
+I am currently working on the ATKV Mobile Application Development project as part of my WIL placement. The project focuses on creating a unified Progressive Web Application (PWA) that improves how ATKV members access services and assists with managing day-to-day operations.
+
+######  📘 Project Overview
+
+The application is being developed using .NET 9 and Blazor WebAssembly, with support for both Afrikaans and English. It is intended to provide members with one platform for accessing their information, payments, bookings and communication, while connecting to existing systems such as iMIS, Freshdesk, 1Tick, Nightsbridge and MaintainX.
+
+The scope below describes the project's planned capabilities and indicative delivery periods. It provides context for the project I am working on; it does not mean that I personally developed every feature or that all features have been completed.
+
+######  🛠️ Version 1 — Planned Scope (6–8 Months)
+
+- **Member Services:** Member profile management and the display of family information.
+- **Dual Wallet System:** A standard wallet for payments and a Tjieng Rewards wallet for spending within ATKV.
+- **NFC Integration:** Armband integration to support transactions at the resorts.
+- **Communication Hub:** Subscription-based news feeds for resorts, branches and cultural projects.
+- **Booking Management:** Viewing active bookings, with 1Tick integration for indemnity requirements.
+- **Support Integration:** A Freshdesk-integrated contact system for support tickets and manual bookings.
+
+######  🚀 Version 2 — Planned Scope (12–14 Months)
+
+- **Advanced Booking:** Nightsbridge integration to support an automated booking engine.
+- **Cultural Projects:** Digital entries, payments and document uploads.
+- **Governance:** Branch management tools and an Annual General Meeting (AGM) voting system.
+- **Maintenance:** MaintainX integration for submitting maintenance requests while at a resort.
+
+######  🧰 Technical Architecture
+
+- **Platform:** .NET 9 with Blazor WebAssembly PWA.
+- **Infrastructure:** Azure-native microservices architecture.
+- **Integration:** RESTful APIs connecting the core business systems.
+- **Security:** Enterprise-grade security and comprehensive audit trails form part of the stated architecture requirements.
+
+######  💻 My Contribution
+
+- Investigating reported bugs and identifying possible causes within the application.
+- Working on assigned fixes and testing the affected functionality.
+- Following the team's review and deployment workflow.
+- Participating in daily stand-ups to communicate progress and raise blockers.
+- Building my understanding of the existing application structure and how its components work together.
+
+######  🔒 Project Evidence and Confidentiality
+
+This overview describes the project I am involved in, while the linked WIL report and register provide supporting evidence of my placement and recorded activities. The application and its implementation belong to the company. Source code, internal repositories, credentials and company implementation artefacts are therefore not included in this portfolio.
+
+######  💭 Work Integrated Learning Reflection
+
+- **Situation :** During my WIL placement at Full Stack, I joined the ATKV mobile application project and had to become familiar with an existing application and the team's way of working.
+- **Task :** My responsibility was to assist with assigned bug investigations and fixes, test the changes and follow the development process used by the team.
+- **Action :** I worked through the reported issues, investigated the affected functionality and tested changes before they moved further through the review process. I also participated in stand-ups to provide updates and discuss any blockers.
+- **Result :** This work has given me practical experience in maintaining an existing application and working with a development team. I am improving my understanding of debugging, testing and the importance of checking how a change affects other parts of the system.
 
 ---
 
