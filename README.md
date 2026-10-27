@@ -205,9 +205,9 @@ The following examples connect user needs to the tasks visible in the evidence. 
 
 | Evidence | User need expressed as a story | Visible tasks and ownership |
 |---|---|---|
-| Define Service Location | As a CPUT student, I want to know where the service operates so that I can judge whether it is accessible to me. | Card identifies CPUT campuses with a District Six focus; AY is assigned. |
-| Set up Supabase backend | As a developer working on PC Revival, I want a configured backend so that the application can connect to its data services. | Initialise the Supabase project; configure environment variables. AY and LM are assigned. |
-| Design PostgreSQL database schema | As a developer, I want a defined database schema so that application data has a clear structure. | Sprint 6 Day 2 card assigned to AY and LM; its six checklist items are not expanded in the supplied image. |
+| Define Service Location | As a CPUT student, I want to know where the service operates so that I can judge whether it is accessible to me. | Card identifies CPUT campuses with a District Six focus; Ayabonga Yawa(AY) is assigned. |
+| Set up Supabase backend | As a developer working on PC Revival, I want a configured backend so that the application can connect to its data services. | Initialise the Supabase project; configure environment variables. Ayabonga Yawa(AY) and Luxolo Matshikiza(LM) are assigned. |
+| Design PostgreSQL database schema | As a developer, I want a defined database schema so that application data has a clear structure. | Sprint 6 Day 2 card assigned to Ayabonga Yawa(AY) and Luxolo Matshikiza(LM); its six checklist items are not expanded in the supplied image. |
 
 ![AY assigned to Define Service Location, with card activity showing movement into Sprint 3](evidence/ay-service-location.png)
 
