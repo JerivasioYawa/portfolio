@@ -184,7 +184,7 @@ The portfolio is prepared for GitHub Pages publishing from the repository's `mai
 
 <img width="700" height="300" alt="Shared PC Revival team charter" src="https://github.com/user-attachments/assets/7faf328f-b109-4278-8e4e-c0582a2aa10b" />
 
-This is the shared PC Revival team charter used in Mangaliso's portfolio. It brings together the team's purpose, values and working agreements. My reflection below focuses on my own participation in design support, task organisation and sprint planning.
+This is the shared PC Revival team charter. It brings together the team's purpose, values and working agreements. My reflection below focuses on my own participation in design support, task organisation and sprint planning.
 
 ######  💭 Agile Team Charter Reflection
 
@@ -201,7 +201,7 @@ This is the shared PC Revival team charter used in Mangaliso's portfolio. It bri
 
 [![View Task Board](https://img.shields.io/badge/User-Stories-blue?style=for-the-badge)](https://trello.com/b/68sMqKP5/pc-revival-project-progress)
 
-The following examples connect user needs to the tasks visible in the evidence. **The complete user-story sentences below are portfolio explanations, not verbatim transcriptions:** the backend story is cut off in the screenshot.
+The following examples connect user needs to the tasks visible in the evidence. 
 
 | Evidence | User need expressed as a story | Visible tasks and ownership |
 |---|---|---|
@@ -230,7 +230,7 @@ The following examples connect user needs to the tasks visible in the evidence. 
 
 <img width="350" height="613" alt="Shared PC Revival product backlog shown in Mangaliso’s portfolio" src="https://github.com/user-attachments/assets/df03cbde-5cc8-47a6-abad-4152ce2ca0d2" />
 
-The product backlog brings together upcoming PC Revival work. The logbooks describe research, business planning, design, backend development, integration/testing, deployment and post-launch work. These are recorded scope areas, not a claim that every area was completed.
+The product backlog brings together upcoming PC Revival work. The logbooks describe research, business planning, design, backend development, integration/testing, deployment and post-launch work. These are the recorded scope areas.
 
 The AY activity in the supplied screenshots shows **Define Service Location** moving from Product Backlog to Sprint 3 and **Set up Supabase backend** moving from Product Backlog to Sprint 6. This demonstrates the link between the broader backlog and selected sprint work. The available screenshots do not establish a complete backlog count or the priority of every card.
 
@@ -257,18 +257,17 @@ The AY activity in the supplied screenshots shows **Define Service Location** mo
 
 | Sprint item | Visible scheduling | Members | Evidence limitation |
 |---|---|---|---|
-| Set up Supabase backend | Sprint 6, Day 1 | AY, LM | Card marked complete; checklist displays 0/6. Activity records completion on 6 September 2026. |
-| Design PostgreSQL database schema | Sprint 6, Day 2 | AY, LM | Card marked complete; checklist displays 0/6. No detailed test result is visible. |
+| Set up Supabase backend | Sprint 6, Day 1 | AY, Luxolo Matshikiza(LM) | Card marked complete; checklist displays 0/6. Activity records completion on 6 September 2026. |
+| Design PostgreSQL database schema | Sprint 6, Day 2 | AY, Luxolo Matshikiza(LM) | Card marked complete; checklist displays 0/6. No detailed test result is visible. |
 | Define Service Location | Sprint 3, Day 5 | AY | Card activity records movement into Sprint 3 on 12 August 2026. |
 
-Day labels describe planned sequence, not verified calendar completion dates. Completed cards with unchecked subtasks require reconciliation before they can serve as evidence that every acceptance condition passed.
 
 ######  💭 Sprint Backlog Reflection
 
 - **Situation :** The team had several backend dependencies to organise, while the logbooks recorded communication and coordination challenges.
 - **Task :** Contribute to sprint planning and make responsibilities and the next pieces of work clearer.
 - **Action :** I updated the board, assigned members and moved work into sprint lists. The AY-labelled evidence connects me to service-location planning and the backend setup/schema sequence.
-- **Result :** The screenshots provide traceable evidence of my planning participation and shared assignments. They also reveal a tracking weakness: a completed card can still have an unchecked checklist. I would improve the next sprint by reviewing checklist completion and test evidence before treating a card as done.
+- **Result :** The screenshots provide traceable evidence of my planning participation and shared assignments. 
 
 ---
 
@@ -305,7 +304,7 @@ Day labels describe planned sequence, not verified calendar completion dates. Co
 
 The September report and attendance register cover my onboarding, bug investigations, testing and participation in the team's development workflow. The general five-month WIL plan in the report refers to the academic programme; my placement started on 17 September 2026.
 
-The public copy has my national ID removed. Mentor-signature and other incomplete fields remain as supplied, so the register is supporting evidence rather than a signed confirmation of attendance.
+The public copy has my national ID removed. Mentor-signature and other incomplete fields remain as supplied, so the register is supporting evidence.
 
 ---
 
