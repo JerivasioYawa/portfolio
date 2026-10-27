@@ -141,9 +141,16 @@ My documented work includes updating the Trello board, assigning tasks, working 
 
 ####  🎥 Mock Interview Video
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3)
+<div align="left">
+  <video width="640" controls preload="metadata" playsinline style="display:block;max-width:100%;height:auto;margin:0 0 16px 0;">
+    <source src="https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3" type="video/mp4">
+    <a href="https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3">Watch my mock interview video</a>
+  </video>
+</div>
 
-The video is retained as evidence of my work-readiness preparation. A direct link provides access from both GitHub and the published portfolio.
+<p align="left">
+  <a href="https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3"><img src="https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&amp;logo=youtube" alt="Watch my mock interview video"></a>
+</p>
 
 ######  💭 Mock Interview Video Reflection
 
