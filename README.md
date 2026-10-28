@@ -31,7 +31,7 @@ This portfolio brings together my professional background, PC Revival project ev
 
 [View my GitHub account](https://github.com/JerivasioYawa) · [Portfolio repository](https://github.com/JerivasioYawa/portfolio)
 
-I have access to the GitHub Student Developer Pack. I use GitHub to organise my repositories, maintain version history and share my academic work. Student Pack status is self-reported; no approval screenshot is included here.
+I have access to the GitHub Student Developer Pack. I use GitHub to organise my repositories, maintain version history and share my academic work.
 
 ### Reflection
 
